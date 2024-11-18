@@ -35,7 +35,7 @@ Este proyecto es una introducción práctica al uso de temporizadores en JavaScr
 1. Verás el reloj en tiempo real, además de ejemplos de setTimeout y setInterval.
 
 ## 🤝 Contribuciones
-Este proyecto es solo de práctica, pero siempre estoy abierta a sugerencias y mejoras.
+Este proyecto es solo de práctica, pero siempre estoy abierto a sugerencias y mejoras.
 
 ## ✍️ Autor
 Proyecto realizado por [Tomas Leon](https://github.com/Tomas-Leon) como práctica de JavaScript.
